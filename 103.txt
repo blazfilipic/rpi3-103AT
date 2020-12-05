@@ -1,1 +1,1 @@
-čao miška
+Test git for temp sensor
